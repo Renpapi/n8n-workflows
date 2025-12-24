@@ -80,7 +80,7 @@
             },
             {
               "name": "x-rapidapi-key",
-              "value": ""
+              "value": "Add your RapidAPI Key here"
             },
             {
               "name": "extract_emails_and_contacts",
